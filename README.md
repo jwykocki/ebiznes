@@ -36,3 +36,15 @@ Link do docker hub: https://hub.docker.com/repository/docker/jwykocki/ebiznes1/g
 :x: 4.5 wymaganie 4
 
 :x: 5.0 wymaganie 5
+
+**Zadanie 4** Go Grom
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/ebiznes/pull/2/commits/635b71ff50ff3c79286988194f75b64526dbe5d6)     
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/ebiznes/pull/2/commits/635b71ff50ff3c79286988194f75b64526dbe5d6)  
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
