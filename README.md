@@ -25,3 +25,14 @@ Link do docker hub: https://hub.docker.com/repository/docker/jwykocki/ebiznes1/g
 :x: 4.5 wymaganie 4
 
 :x: 5.0 wymaganie 5
+
+**Zadanie 3** Ktor Kotlin
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/ebiznes/pull/1/commits/05d496f3326773199bc3cb1cce50c943936fc649)
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/ebiznes/pull/1/commits/05d496f3326773199bc3cb1cce50c943936fc649)
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
