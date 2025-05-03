@@ -1,1 +1,6 @@
 /.idea
+
+/.node_modules
+/zad6/chrome-win32/*
+/zad6/chrome-win32/
+/zad6/chromedriver-win64/
