@@ -33,3 +33,9 @@ test_selenium2.py::test_product_prices_format PASSED                            
 
 ======================================================== 14 passed in 10.28s =========================================================
 ```
+
+### Tests - backend
+Tests are located in [zad5/kotlin-backend/src/test/kotlin/com/jw/kotlinbackend/controller](../zad5/kotlin-backend/src/test/kotlin/com/jw/kotlinbackend/controller) directory.
+
+Tests run output:
+![tests-backend.PNG](tests-backend.PNG)
