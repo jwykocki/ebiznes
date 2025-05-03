@@ -60,3 +60,15 @@ Link do docker hub: https://hub.docker.com/repository/docker/jwykocki/ebiznes1/g
 :x: 4.5 wymaganie 4
 
 :x: 5.0 wymaganie 5
+
+**Zadanie 6** Selenium tests
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/ebiznes/pull/5/commits/4b1bba1bb3957cb9361e33db94bace837a61e2ac)  
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/ebiznes/pull/5/commits/4b1bba1bb3957cb9361e33db94bace837a61e2ac)  
+
+:white_check_mark: 4.0 wymaganie 3 [commit](https://github.com/jwykocki/ebiznes/pull/5/commits/bbcb9a092096c6280220f2d86950aab553f3bda6)  
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5

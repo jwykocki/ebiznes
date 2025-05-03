@@ -9,7 +9,7 @@ function Cart() {
             {cart.length === 0 ? (
                 <p>Your cart is empty</p>
             ) : (
-                <ul>
+                <ul data-testid="cart-list">
                     {cart.map(item => (
                         <li key={item.productId}>
                             {item.name} - ${item.price.toFixed(2)} x {item.quantity}
