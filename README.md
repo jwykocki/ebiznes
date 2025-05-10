@@ -72,3 +72,17 @@ Link do docker hub: https://hub.docker.com/repository/docker/jwykocki/ebiznes1/g
 :x: 4.5 wymaganie 4
 
 :x: 5.0 wymaganie 5
+
+**Zadanie 7** Sonar
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/kotlin-backend/pull/1/commits/52c8d6c635753bc99f47a393068755e4b5d59a3e)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/kotlin-backend/pull/1/commits/52c8d6c635753bc99f47a393068755e4b5d59a3e)
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
