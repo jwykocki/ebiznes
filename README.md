@@ -85,4 +85,18 @@ Link do docker hub: https://hub.docker.com/repository/docker/jwykocki/ebiznes1/g
 
 :x: 5.0 wymaganie 5
 
+**Zadanie 8** Oauth2
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/ebiznes/pull/7/commits/4796e945d8234b4f5ed4850ec3aa799a109e5cdc
+)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/ebiznes/pull/7/commits/4796e945d8234b4f5ed4850ec3aa799a109e5cdc)
+
+:white_check_mark: 4.0 wymaganie 3 [commit](https://github.com/jwykocki/ebiznes/pull/7/commits/4796e945d8234b4f5ed4850ec3aa799a109e5cdc)
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
+
+
 
