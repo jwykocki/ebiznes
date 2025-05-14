@@ -15,7 +15,7 @@ export interface PaymentResponse {
     transactionId?: string;
 }
 
-// frontend/src/types/cart.ts
+// frontend/src2/types/cart.ts
 export interface CartItem {
     productId: number;
     quantity: number;
