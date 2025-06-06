@@ -1,0 +1,33 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build_backend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: zad10/backend
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up JDK
+        uses: actions/setup-java@v3
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+      - name: Build JAR
+        run: ./mvnw package
+      - name: Build Docker image
+        run: docker build -t backend:latest .
+
+  build_frontend:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: zad10/frontend
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build Docker image
+        run: docker build -t frontend:latest .
