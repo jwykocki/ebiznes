@@ -117,7 +117,7 @@ Link do docker hub: https://hub.docker.com/repository/docker/jwykocki/ebiznes1/g
 :white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/ebiznes/pull/9/commits/85c52f1684d7eeceead3893f4437025c29d9a846
 )
 
-:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/ebiznes/pull/9/commits/85c52f1684d7eeceead3893f4437025c29d9a846)
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/ebiznes/pull/9/commits/405084b3cafd02b3bd27ddb217c48e2f3695c891)
 
 :x: 4.0 wymaganie 3
 
