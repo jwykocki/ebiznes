@@ -1,5 +1,10 @@
-FROM openjdk:17-jdk-slim
+FROM openjdk:21-jdk-slim
 WORKDIR /app
-COPY zad10/target/demo-0.0.1-SNAPSHOT.jar app.jar
+
+COPY . /debug
+RUN ls -R /debug
+
+
+COPY target/demo-0.0.1-SNAPSHOT.jar app.jar
 EXPOSE 8080
 ENTRYPOINT ["java", "-jar", "app.jar"]
