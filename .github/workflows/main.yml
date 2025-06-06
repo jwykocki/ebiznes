@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Build and Deploy zad 10
 
 on:
   push:
@@ -17,6 +17,8 @@ jobs:
         with:
           java-version: '21'
           distribution: 'temurin'
+      - name: Set execute permission for mvnw
+        run: chmod +x mvnw
       - name: Build JAR
         run: ./mvnw package
       - name: Build Docker image
