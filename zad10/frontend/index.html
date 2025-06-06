@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frontend</title>
+</head>
+<body>
+<h1>Frontend</h1>
+<p id="response">Loading...</p>
+
+<script>
+    fetch('https://BACKEND_URL/api/hello')
+        .then(response => response.text())
+        .then(data => {
+            document.getElementById('response').innerText = data;
+        });
+</script>
+</body>
+</html>
