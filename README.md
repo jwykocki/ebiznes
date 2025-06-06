@@ -112,6 +112,18 @@ Link do docker hub: https://hub.docker.com/repository/docker/jwykocki/ebiznes1/g
 
 :x: 5.0 wymaganie 5
 
+**Zadanie 9** Cloud
+
+:white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/ebiznes/pull/9/commits/85c52f1684d7eeceead3893f4437025c29d9a846
+)
+
+:white_check_mark: 3.5 wymaganie 2 [commit](https://github.com/jwykocki/ebiznes/pull/9/commits/85c52f1684d7eeceead3893f4437025c29d9a846)
+
+:x: 4.0 wymaganie 3
+
+:x: 4.5 wymaganie 4
+
+:x: 5.0 wymaganie 5
 
 
 
