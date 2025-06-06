@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: backend
+        working-directory: zad10/backend
     steps:
       - uses: actions/checkout@v3
       - name: Set up JDK
@@ -26,7 +26,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: frontend
+        working-directory: zad10/frontend
     steps:
       - uses: actions/checkout@v3
       - name: Build Docker image
