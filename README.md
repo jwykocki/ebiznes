@@ -2,7 +2,7 @@
 
 **Zadanie 1** Docker
 
-Link do docker hub: https://hub.docker.com/repository/docker/jwykocki/ebiznes1/general
+Link do docker hub: https://hub.docker.com/r/jwykocki/ebiznes1
 
 :white_check_mark: 3.0 wymaganie 1 [commit](https://github.com/jwykocki/ebiznes/commit/8d2c9fd4ee164030a7b8a2d9372a3900190f71d2)
 
